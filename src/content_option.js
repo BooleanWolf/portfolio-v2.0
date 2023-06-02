@@ -1,18 +1,18 @@
-const logotext = "JOHN";
+const logotext = "TAMIM";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Tamim Sarkar",
+    description: "I am Tamim Sarkar, an AI and Robotics enthusiast.",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Tamim Sarkar",
     animated: {
-        first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop mobile apps",
+        first: "I love to create AI model",
+        second: "I love creating drones.",
+        third: "I work with autonomous sytem.",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    description: "I am a student of undergraduate in Mechanical Engineering in BUET (Bangladesh University of Engineering and Technology.). I am passionate in developing autonomous system. I work with ROS and other simulated environment. I also develop AI models for Computer Vision, NLP and Robots ",
+    your_img_url: "https://scontent.fdac24-3.fna.fbcdn.net/v/t39.30808-6/250912393_1294779787608826_1390802645796562916_n.jpg?stp=dst-jpg_s1080x2048&_nc_cat=106&ccb=1-7&_nc_sid=a4a2d7&_nc_eui2=AeERi8poJL9tOpP5uIK-u0YkvhaxDt6ranW-FrEO3qtqdQdWFygvulZX-mtgfwurK-1Amuhjar7XrM-pbamPFsvW&_nc_ohc=KYr8JFAId2wAX9doM8S&_nc_ht=scontent.fdac24-3.fna&oh=00_AfCdEb77LaEaHA0uHEMMSh8rTdhu9cj7zw6S6fsYRrFutg&oe=647EE916",
 };
 
 const dataabout = {
@@ -73,66 +73,11 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://scontent.fdac24-4.fna.fbcdn.net/v/t1.15752-9/350359899_1229540954433070_7116203514900429594_n.png?_nc_cat=103&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeHhwoZ7RCXtg17zvyeI-bX4WK4tTdD3c1lYri1N0PdzWWfJC6b6XpWj5iPi4CO188Nh-wwlqXJ_NBDrgv9NTLSx&_nc_ohc=7EiI2hQ_ZGgAX_fIbLR&_nc_ht=scontent.fdac24-4.fna&oh=03_AdSWYXgwGdiL45msj0-vI3pptbuFpdFMtbcLG2jSlEPHiA&oe=64A1861F",
+        description: "Game of DFS",
+        link: "https://github.com/BooleanWolf/Game_of_DFS",
     },
-    {
-        img: "https://picsum.photos/400/800/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/550/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
+   
 ];
 
 const contactConfig = {
